@@ -10,30 +10,40 @@ const tabs = [
   {
     name: 'Overview',
     value: 'overview',
+    href: '/'
   },
   {
     name: 'Projects',
     value: 'projects',
+    href: '/projects'
   },
   {
     name: 'Repositories',
     value: 'repositories',
+    href: '/repositories'
   },
   {
     name: 'Skills',
     value: 'skills',
+    href: '/skills'
   },
   {
     name: 'Experience',
     value: 'experience',
+    href: '/experience'
   },
   {
     name: 'Education',
     value: 'education',
+    href: '/education'
   },
 ];
 
-export default function Home() {
+export default function MainLayout({
+  children,
+}: {
+  children: React.ReactNode;
+}) {
   return (
     <div className="min-h-screen bg-app-background">
       <Navbar profile={portfolio.profile} />
@@ -54,14 +64,10 @@ export default function Home() {
             <main className="flex-1 min-w-0">
               <TabsUnderlined 
                 tabs={tabs}
-                defaultTab="overview"
-                overview={portfolio.overview}
-                projects={portfolio.projects}
-                repositories={portfolio.repositories}
-                skills={portfolio.skills}
-                experience={portfolio.experience}
-                education={portfolio.education}
               />
+              <div className="py-8">
+                {children}
+              </div>
             </main>
           </div>
         </div>

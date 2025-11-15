@@ -137,4 +137,5 @@ export interface PortfolioData {
 export interface Tab {
   name: string
   value: string
+  href: string
 }
