@@ -1,15 +1,12 @@
 export interface Profile {
   name: string
   username: string
-  bio: string
+  bio?: string
   avatar?: string
   location?: string
   website?: string
   company?: string
   twitter?: string
-  followers: number
-  following: number
-  stars: number
 }
 
 export interface SocialLink {
