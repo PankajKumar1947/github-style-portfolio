@@ -53,7 +53,7 @@ export default function MainLayout({
         <div className="container mx-auto px-4">
           <div className="flex flex-col md:flex-row gap-6 md:gap-12">
             {/* Sidebar - Profile Card */}
-            <aside className="w-full md:w-72 py-8">
+            <aside className="w-full md:w-72 py-10 pt-20">
               <ProfileCard 
                 profile={portfolio.profile}
                 socialLinks={portfolio.socialLinks}

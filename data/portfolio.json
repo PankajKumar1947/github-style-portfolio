@@ -1,16 +1,13 @@
 {
   "profile": {
     "name": "Pankaj Kumar",
-    "username": "pankajkry",
+    "username": "pankajkumar",
     "bio": "Full Stack Developer | React | Node.js | TypeScript | Building amazing web experiences",
-    "avatar": "/placeholder.svg",
+    "avatar": "https://avatars.githubusercontent.com/u/130830370?v=4",
     "location": "India",
     "website": "https://pankajkry.dev",
     "company": "@TechCorp",
-    "twitter": "pankajkry",
-    "followers": 120,
-    "following": 45,
-    "stars": 89
+    "twitter": "pankajkry"
   },
   "socialLinks": [
     {

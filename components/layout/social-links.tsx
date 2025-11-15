@@ -24,7 +24,7 @@ export function SocialLinks({ links }: SocialLinksProps) {
           rel="noopener noreferrer"
           title={platform}
           aria-label={platform}
-          className="text-muted-foreground hover:text-primary transition-colors"
+          className="text-muted-foreground hover:text-primary transition-colors border-2 rounded-full p-2"
         >
           <Icon className="w-5 h-5" />
         </a>
