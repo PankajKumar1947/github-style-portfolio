@@ -1,0 +1,137 @@
+:root {
+  --radius: 0.625rem;
+
+  /* Base */
+  --background: #ffffff;
+  --foreground: #1f2328;
+
+  /* Navbar */
+  --navbar-background: #ffffff;
+  --navbar-border: #d0d7de;
+  --navbar-foreground: #1f2328;
+  --navbar-input-background: #f6f8fa;
+  --navbar-input-border: #d0d7de;
+  --navbar-input-placeholder: #6e7781;
+
+  /* Brand */
+  --primary: #0969da;
+  --primary-hover: #0550ae;
+  --primary-background: #f1f8ff;
+  --primary-border: #b6e3ff;
+  --primary-foreground: #ffffff;
+
+  /* Icons */
+  --icon: #57606a;
+  --icon-hover: #1f2328;
+
+  /* Backgrounds */
+  --app-background: #f6f8fa;
+  --card: #ffffff;
+  --card-foreground: #1f2328;
+  
+  /* Muted colors for light mode */
+  --muted: #f6f8fa;
+  --muted-foreground: #57606a;
+  --accent: #f6f8fa;
+  --accent-foreground: #1f2328;
+  --secondary: #f6f8fa;
+  --secondary-foreground: #1f2328;
+
+  /* Accent / States */
+  --info: #1f6feb;
+  --warning: #cf8600;
+  --error: #cf222e;
+  --success: #2da44e;
+  --destructive: #cf222e;
+
+  /* Neutral / Grey Scale */
+  --grey-50: #f6f8fa;
+  --grey-100: #eaeef2;
+  --grey-200: #d0d7de;
+  --grey-300: #afb8c1;
+  --grey-400: #8c959f;
+  --grey-500: #6e7781;
+  --grey-600: #57606a;
+  --grey-700: #424a53;
+  --grey-800: #32383f;
+  --grey-900: #24292f;
+
+  /* Borders & Inputs */
+  --border: #d0d7de;
+  --input: #d0d7de;
+  --ring: #0969da;
+
+  /* Sidebar (if needed) */
+  --sidebar: #ffffff;
+  --sidebar-foreground: #1f2328;
+  --sidebar-border: #d0d7de;
+  --sidebar-ring: #0969da;
+}
+
+.dark {
+  /* Base */
+  --background: #0d1117;
+  --foreground: #c9d1d9;
+
+  /* Navbar */
+  --navbar-background: #161b22;
+  --navbar-border: #30363d;
+  --navbar-foreground: #c9d1d9;
+  --navbar-input-background: #0d1117;
+  --navbar-input-border: #30363d;
+  --navbar-input-placeholder: #8b949e;
+
+  /* Brand */
+  --primary: #1f6feb;
+  --primary-hover: #388bfd;
+  --primary-background: #0d419d;
+  --primary-border: #1f6feb;
+  --primary-foreground: #ffffff;
+
+  /* Icons */
+  --icon: #8b949e;
+  --icon-hover: #c9d1d9;
+
+  /* Backgrounds */
+  --app-background: #0d1117;
+  --card: #161b22;
+  --card-foreground: #c9d1d9;
+  
+  /* Muted colors for dark mode */
+  --muted: #161b22;
+  --muted-foreground: #8b949e;
+  --accent: #161b22;
+  --accent-foreground: #c9d1d9;
+  --secondary: #161b22;
+  --secondary-foreground: #c9d1d9;
+
+  /* Accent / States */
+  --info: #1f6feb;
+  --warning: #d29922;
+  --error: #f85149;
+  --success: #3fb950;
+  --destructive: #f85149;
+
+  /* Neutral / Grey Scale */
+  --grey-50: #f6f8fa;
+  --grey-100: #30363d;
+  --grey-200: #484f58;
+  --grey-300: #6e7681;
+  --grey-400: #8b949e;
+  --grey-500: #b1bac4;
+  --grey-600: #c9d1d9;
+  --grey-700: #d2d7de;
+  --grey-800: #eaeef2;
+  --grey-900: #f6f8fa;
+
+  /* Borders & Inputs */
+  --border: #30363d;
+  --input: #30363d;
+  --ring: #1f6feb;
+
+  /* Sidebar */
+  --sidebar: #010409;
+  --sidebar-foreground: #c9d1d9;
+  --sidebar-border: #30363d;
+  --sidebar-ring: #1f6feb;
+}

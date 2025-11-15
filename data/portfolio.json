@@ -1,0 +1,424 @@
+{
+  "profile": {
+    "name": "Pankaj Kumar",
+    "username": "pankajkry",
+    "bio": "Full Stack Developer | React | Node.js | TypeScript | Building amazing web experiences",
+    "avatar": "/placeholder.svg",
+    "location": "India",
+    "website": "https://pankajkry.dev",
+    "company": "@TechCorp",
+    "twitter": "pankajkry",
+    "followers": 120,
+    "following": 45,
+    "stars": 89
+  },
+  "socialLinks": [
+    {
+      "platform": "github",
+      "url": "https://github.com/pankajkry",
+      "icon": "github"
+    },
+    {
+      "platform": "twitter",
+      "url": "https://twitter.com/pankajkry",
+      "icon": "twitter"
+    },
+    {
+      "platform": "linkedin",
+      "url": "https://linkedin.com/in/pankajkry",
+      "icon": "linkedin"
+    },
+    {
+      "platform": "instagram",
+      "url": "https://instagram.com/pankajkry",
+      "icon": "instagram"
+    }
+  ],
+  "overview": {
+    "pinnedRepositories": [
+      {
+        "id": 1,
+        "name": "awesome-project",
+        "description": "A full-stack web application built with React and Node.js",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "stars": 45,
+        "forks": 12,
+        "isPrivate": false,
+        "updatedAt": "2024-01-15"
+      },
+      {
+        "id": 2,
+        "name": "portfolio-website",
+        "description": "My personal portfolio website showcasing my projects and skills",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "stars": 23,
+        "forks": 8,
+        "isPrivate": false,
+        "updatedAt": "2024-01-10"
+      },
+      {
+        "id": 3,
+        "name": "api-server",
+        "description": "RESTful API server with Express and MongoDB",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "stars": 18,
+        "forks": 5,
+        "isPrivate": false,
+        "updatedAt": "2024-01-08"
+      },
+      {
+        "id": 4,
+        "name": "mobile-app",
+        "description": "Cross-platform mobile application using React Native",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "stars": 34,
+        "forks": 9,
+        "isPrivate": false,
+        "updatedAt": "2024-01-12"
+      },
+      {
+        "id": 5,
+        "name": "design-system",
+        "description": "Component library and design system for web applications",
+        "language": "CSS",
+        "languageColor": "#563d7c",
+        "stars": 67,
+        "forks": 15,
+        "isPrivate": false,
+        "updatedAt": "2024-01-14"
+      },
+      {
+        "id": 6,
+        "name": "data-visualization",
+        "description": "Interactive data visualization dashboard with D3.js",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "stars": 29,
+        "forks": 7,
+        "isPrivate": false,
+        "updatedAt": "2024-01-11"
+      }
+    ],
+    "contributions": {
+      "total": 1234,
+      "thisYear": 456,
+      "streak": 15
+    },
+    "highlights": [
+      {
+        "title": "Arctic Code Vault Contributor",
+        "description": "Contributed code to repositories preserved in the GitHub Arctic Code Vault"
+      },
+      {
+        "title": "Pro",
+        "description": "GitHub Pro since 2023"
+      }
+    ]
+  },
+  "skills": [
+    {
+      "category": "Frontend",
+      "items": [
+        { "name": "React", "level": "Expert" },
+        { "name": "TypeScript", "level": "Expert" },
+        { "name": "Next.js", "level": "Advanced" },
+        { "name": "Vue.js", "level": "Intermediate" },
+        { "name": "HTML/CSS", "level": "Expert" },
+        { "name": "Tailwind CSS", "level": "Advanced" }
+      ]
+    },
+    {
+      "category": "Backend",
+      "items": [
+        { "name": "Node.js", "level": "Expert" },
+        { "name": "Express", "level": "Advanced" },
+        { "name": "Python", "level": "Intermediate" },
+        { "name": "PostgreSQL", "level": "Advanced" },
+        { "name": "MongoDB", "level": "Advanced" },
+        { "name": "Redis", "level": "Intermediate" }
+      ]
+    },
+    {
+      "category": "Tools & Others",
+      "items": [
+        { "name": "Git", "level": "Expert" },
+        { "name": "Docker", "level": "Advanced" },
+        { "name": "AWS", "level": "Intermediate" },
+        { "name": "CI/CD", "level": "Advanced" },
+        { "name": "Jest", "level": "Advanced" },
+        { "name": "Webpack", "level": "Intermediate" }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "id": 1,
+      "title": "Senior Full Stack Developer",
+      "company": "TechCorp",
+      "location": "Remote",
+      "type": "Full-time",
+      "startDate": "2022-03",
+      "endDate": "Present",
+      "description": "Leading development of scalable web applications using React and Node.js. Mentoring junior developers and implementing best practices.",
+      "technologies": ["React", "Node.js", "TypeScript", "PostgreSQL", "AWS"]
+    },
+    {
+      "id": 2,
+      "title": "Full Stack Developer",
+      "company": "StartupXYZ",
+      "location": "San Francisco, CA",
+      "type": "Full-time",
+      "startDate": "2020-06",
+      "endDate": "2022-02",
+      "description": "Developed and maintained multiple client projects. Built RESTful APIs and responsive frontend interfaces.",
+      "technologies": ["React", "Express", "MongoDB", "JavaScript"]
+    },
+    {
+      "id": 3,
+      "title": "Frontend Developer",
+      "company": "WebAgency",
+      "location": "New York, NY",
+      "type": "Full-time",
+      "startDate": "2018-09",
+      "endDate": "2020-05",
+      "description": "Created responsive web applications and collaborated with design teams to implement pixel-perfect UIs.",
+      "technologies": ["React", "Vue.js", "CSS", "JavaScript"]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "name": "E-Commerce Platform",
+      "description": "A full-featured e-commerce platform with payment integration, inventory management, and admin dashboard.",
+      "url": "https://github.com/pankajkry/ecommerce",
+      "demo": "https://ecommerce-demo.com",
+      "image": "/placeholder.svg",
+      "technologies": ["React", "Node.js", "PostgreSQL", "Stripe"],
+      "stars": 234,
+      "forks": 45,
+      "status": "active"
+    },
+    {
+      "id": 2,
+      "name": "Task Management App",
+      "description": "Collaborative task management application with real-time updates and team collaboration features.",
+      "url": "https://github.com/pankajkry/taskmanager",
+      "demo": "https://taskmanager-demo.com",
+      "image": "/placeholder.svg",
+      "technologies": ["Next.js", "TypeScript", "MongoDB", "Socket.io"],
+      "stars": 156,
+      "forks": 32,
+      "status": "active"
+    },
+    {
+      "id": 3,
+      "name": "Weather Dashboard",
+      "description": "Beautiful weather dashboard with location-based forecasts and interactive maps.",
+      "url": "https://github.com/pankajkry/weather",
+      "demo": "https://weather-demo.com",
+      "image": "/placeholder.svg",
+      "technologies": ["React", "Chart.js", "OpenWeather API"],
+      "stars": 89,
+      "forks": 18,
+      "status": "active"
+    },
+    {
+      "id": 4,
+      "name": "Blog Platform",
+      "description": "Modern blog platform with markdown support, syntax highlighting, and SEO optimization.",
+      "url": "https://github.com/pankajkry/blog",
+      "demo": "https://blog-demo.com",
+      "image": "/placeholder.svg",
+      "technologies": ["Next.js", "MDX", "Tailwind CSS"],
+      "stars": 112,
+      "forks": 24,
+      "status": "active"
+    }
+  ],
+  "repositories": [
+    {
+      "id": 1,
+      "name": "awesome-project",
+      "description": "A full-stack web application built with React and Node.js",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 45,
+      "forks": 12,
+      "isPrivate": false,
+      "updatedAt": "2024-01-15",
+      "url": "https://github.com/pankajkry/awesome-project"
+    },
+    {
+      "id": 2,
+      "name": "portfolio-website",
+      "description": "My personal portfolio website showcasing my projects and skills",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 23,
+      "forks": 8,
+      "isPrivate": false,
+      "updatedAt": "2024-01-10",
+      "url": "https://github.com/pankajkry/portfolio-website"
+    },
+    {
+      "id": 3,
+      "name": "api-server",
+      "description": "RESTful API server with Express and MongoDB",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 18,
+      "forks": 5,
+      "isPrivate": false,
+      "updatedAt": "2024-01-08",
+      "url": "https://github.com/pankajkry/api-server"
+    },
+    {
+      "id": 4,
+      "name": "mobile-app",
+      "description": "Cross-platform mobile application using React Native",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 34,
+      "forks": 9,
+      "isPrivate": false,
+      "updatedAt": "2024-01-12",
+      "url": "https://github.com/pankajkry/mobile-app"
+    },
+    {
+      "id": 5,
+      "name": "design-system",
+      "description": "Component library and design system for web applications",
+      "language": "CSS",
+      "languageColor": "#563d7c",
+      "stars": 67,
+      "forks": 15,
+      "isPrivate": false,
+      "updatedAt": "2024-01-14",
+      "url": "https://github.com/pankajkry/design-system"
+    },
+    {
+      "id": 6,
+      "name": "data-visualization",
+      "description": "Interactive data visualization dashboard with D3.js",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 29,
+      "forks": 7,
+      "isPrivate": false,
+      "updatedAt": "2024-01-11",
+      "url": "https://github.com/pankajkry/data-visualization"
+    },
+    {
+      "id": 7,
+      "name": "blog-platform",
+      "description": "Modern blog platform with markdown support",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 42,
+      "forks": 11,
+      "isPrivate": false,
+      "updatedAt": "2024-01-13",
+      "url": "https://github.com/pankajkry/blog-platform"
+    },
+    {
+      "id": 8,
+      "name": "task-manager",
+      "description": "Task management application with real-time collaboration",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 38,
+      "forks": 9,
+      "isPrivate": false,
+      "updatedAt": "2024-01-09",
+      "url": "https://github.com/pankajkry/task-manager"
+    }
+  ],
+  "education": [
+    {
+      "id": 1,
+      "degree": "Bachelor of Science in Computer Science",
+      "institution": "University of Technology",
+      "location": "New York, NY",
+      "startDate": "2014-09",
+      "endDate": "2018-05",
+      "description": "Focused on software engineering, algorithms, and data structures. Participated in various coding competitions and hackathons.",
+      "gpa": "3.8",
+      "fieldOfStudy": "Computer Science"
+    },
+    {
+      "id": 2,
+      "degree": "Master of Science in Software Engineering",
+      "institution": "Tech Institute",
+      "location": "San Francisco, CA",
+      "startDate": "2018-09",
+      "endDate": "2020-05",
+      "description": "Specialized in full-stack development, cloud computing, and software architecture. Completed thesis on scalable web applications.",
+      "gpa": "3.9",
+      "fieldOfStudy": "Software Engineering"
+    }
+  ],
+  "technologies": [
+    {
+      "name": "JavaScript",
+      "icon": "javascript",
+      "proficiency": 95
+    },
+    {
+      "name": "TypeScript",
+      "icon": "typescript",
+      "proficiency": 90
+    },
+    {
+      "name": "React",
+      "icon": "react",
+      "proficiency": 95
+    },
+    {
+      "name": "Node.js",
+      "icon": "nodejs",
+      "proficiency": 88
+    },
+    {
+      "name": "Python",
+      "icon": "python",
+      "proficiency": 75
+    },
+    {
+      "name": "PostgreSQL",
+      "icon": "postgresql",
+      "proficiency": 85
+    },
+    {
+      "name": "MongoDB",
+      "icon": "mongodb",
+      "proficiency": 82
+    },
+    {
+      "name": "Docker",
+      "icon": "docker",
+      "proficiency": 80
+    },
+    {
+      "name": "AWS",
+      "icon": "aws",
+      "proficiency": 70
+    },
+    {
+      "name": "Git",
+      "icon": "git",
+      "proficiency": 92
+    }
+  ],
+  "contact": {
+    "email": "pankaj@example.com",
+    "phone": "+1 (555) 123-4567",
+    "location": "India",
+    "available": true,
+    "message": "I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions."
+  }
+}
+
