@@ -18,8 +18,8 @@ export function ExperienceContent({ experience }: ExperienceContentProps) {
           className="border-l-2 border-border pl-6 pb-6 relative"
         >
           <div className="absolute -left-[9px] top-0 w-4 h-4 rounded-full bg-primary border-2 border-background" />
-          
-          <Card className="border-0 shadow-none ">
+
+          <Card className="border-0 shadow-none">
             <CardHeader className="pb-3">
               <CardTitle className="text-lg">{exp.title}</CardTitle>
               <CardDescription>
@@ -43,20 +43,20 @@ export function ExperienceContent({ experience }: ExperienceContentProps) {
                       {exp.endDate === "Present"
                         ? "Present"
                         : new Date(exp.endDate).toLocaleDateString("en-US", {
-                            month: "short",
-                            year: "numeric",
-                          })}
+                          month: "short",
+                          year: "numeric",
+                        })}
                     </span>
                   </div>
                 </div>
               </CardDescription>
             </CardHeader>
-            
+
             <CardContent>
               <p className="text-sm text-muted-foreground leading-relaxed mb-3">
                 {exp.description}
               </p>
-              
+
               <div className="flex flex-wrap gap-2">
                 {exp.technologies.map((tech, index) => (
                   <Badge key={index} variant="secondary">

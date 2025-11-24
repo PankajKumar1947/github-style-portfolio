@@ -26,9 +26,9 @@
 
   /* Backgrounds */
   --app-background: #f6f8fa;
-  --card: #ffffff;
+  --card: #f6f8fa;
   --card-foreground: #1f2328;
-  
+
   /* Muted colors for light mode */
   --muted: #f6f8fa;
   --muted-foreground: #57606a;
@@ -96,7 +96,7 @@
   --app-background: #0d1117;
   --card: #161b22;
   --card-foreground: #c9d1d9;
-  
+
   /* Muted colors for dark mode */
   --muted: #161b22;
   --muted-foreground: #8b949e;
