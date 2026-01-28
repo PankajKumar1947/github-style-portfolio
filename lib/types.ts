@@ -27,19 +27,6 @@ export interface PinnedRepository {
   updatedAt: string
 }
 
-export interface Repository {
-  id: number
-  name: string
-  description: string
-  language?: string
-  languageColor?: string
-  stars: number
-  forks: number
-  isPrivate: boolean
-  updatedAt: string
-  url?: string
-}
-
 export interface ContributionStats {
   total: number
   thisYear: number
@@ -126,7 +113,6 @@ export interface PortfolioData {
   experience: Experience[]
   education?: Education[]
   projects: Project[]
-  repositories?: Repository[]
   technologies: Technology[]
   contact: Contact
 }

@@ -38,11 +38,7 @@ export function OverviewContent({ overview }: OverviewContentProps) {
               Feel free to explore my repositories and get in touch if you'd like to collaborate!
             </p>
             <div className="flex gap-2 pt-2">
-              <Button variant="outline" size="sm" asChild>
-                <Link href="/repositories">
-                  View Repositories
-                </Link>
-              </Button>
+
               <Button variant="outline" size="sm" asChild>
                 <Link href="mailto:contact@example.com">
                   Contact Me
