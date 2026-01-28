@@ -32,6 +32,79 @@
     }
   ],
   "overview": {
+    "pinnedRepositories": [
+      {
+        "id": 1,
+        "name": "awesome-project",
+        "description": "A full-stack web application built with React and Node.js",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "stars": 45,
+        "forks": 12,
+        "isPrivate": false,
+        "updatedAt": "2024-01-15"
+      },
+      {
+        "id": 5,
+        "name": "design-system",
+        "description": "Component library and design system for web applications",
+        "language": "CSS",
+        "languageColor": "#563d7c",
+        "stars": 67,
+        "forks": 15,
+        "isPrivate": false,
+        "updatedAt": "2024-01-14"
+      },
+      {
+        "id": 7,
+        "name": "blog-platform",
+        "description": "Modern blog platform with markdown support",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "stars": 42,
+        "forks": 11,
+        "isPrivate": false,
+        "updatedAt": "2024-01-13"
+      },
+      {
+        "id": 8,
+        "name": "task-manager",
+        "description": "Task management application with real-time collaboration",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "stars": 38,
+        "forks": 9,
+        "isPrivate": false,
+        "updatedAt": "2024-01-09"
+      },
+      {
+        "id": 4,
+        "name": "mobile-app",
+        "description": "Cross-platform mobile application using React Native",
+        "language": "TypeScript",
+        "languageColor": "#3178c6",
+        "stars": 34,
+        "forks": 9,
+        "isPrivate": false,
+        "updatedAt": "2024-01-12"
+      },
+      {
+        "id": 6,
+        "name": "data-visualization",
+        "description": "Interactive data visualization dashboard with D3.js",
+        "language": "JavaScript",
+        "languageColor": "#f1e05a",
+        "stars": 29,
+        "forks": 7,
+        "isPrivate": false,
+        "updatedAt": "2024-01-11"
+      }
+    ],
+    "contributions": {
+      "total": 1247,
+      "thisYear": 423,
+      "streak": 47
+    },
     "highlights": [
       {
         "title": "Arctic Code Vault Contributor",
